@@ -264,25 +264,42 @@
   "correctIndex": 1
   },
   {
-    "question": "What is the Japanese writing system used for foreign words? (Community variation 35)",
+  "question": "What is the traditional Japanese tea ceremony called? (Community variation 19)",
+  "difficulty": "medium",
+  "answers": [
+    "Sado",
+    "Judo",
+    "Kendo",
+    "Shodo"
+  ],
+  "correctIndex": 0
+  },
+  {
+  "question": "What is the name of Japan’s national public broadcaster? (Community variation 54)",
+  "difficulty": "medium",
+  "answers": [
+    "NHK",
+    "NHK World Japan",
+    "Asahi",
+    "Fuji TV"
+  ],
+  "correctIndex": 0
+  },
+  {
+    "question": "Which Japanese city is famous for the Gion Matsuri festival?",
     "difficulty": "medium",
-    "answers": [
-      "Katakana",
-      "Hiragana",
-      "Kanji",
-      "Romaji"
-    ],
+    "answers": ["Kyoto", "Nagoya", "Hiroshima", "Sendai"],
     "correctIndex": 0
   },
   {
-    "question": "What is the traditional Japanese tea ceremony called? (Community variation 19)",
-    "difficulty": "medium",
-    "answers": [
-      "Sado",
-      "Judo",
-      "Kendo",
-      "Shodo"
-    ],
-    "correctIndex": 0
-  }
+  "question": "What is the traditional Japanese tea ceremony called? (Community variation 19)",
+  "difficulty": "medium",
+  "answers": [
+    "Sado",
+    "Judo",
+    "Kendo",
+    "Shodo"
+  ],
+  "correctIndex": 0
+}
 ]
